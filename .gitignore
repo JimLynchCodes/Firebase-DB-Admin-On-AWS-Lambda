@@ -5,8 +5,10 @@ pom.xml.asc
 /classes/
 /target/
 /checkouts/
+/app/firebase-service-key.json
 .lein-deps-sum
 .lein-repl-history
 .lein-plugins/
 .lein-failures
 .nrepl-port
+/node_modules/

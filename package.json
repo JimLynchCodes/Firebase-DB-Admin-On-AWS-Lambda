@@ -1,0 +1,23 @@
+{
+  "name": "firebase-db-admin-on-aws-lambda",
+  "version": "0.0.1",
+  "description": "An example of reading from Firebase DB as an admin user from and AWS Lambda function.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JimTheMan/Firebase-DB-Admin-On-AWS-Lambda.git"
+  },
+  "author": "Jim Lynch",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/JimTheMan/Firebase-DB-Admin-On-AWS-Lambda/issues"
+  },
+  "homepage": "https://github.com/JimTheMan/Firebase-DB-Admin-On-AWS-Lambda#readme",
+  "dependencies": {
+    "firebase": "^3.6.4",
+    "firebase-admin": "^4.0.4"
+  }
+}
